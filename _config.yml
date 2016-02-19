@@ -1,0 +1,28 @@
+name: The Human Mind
+favicon: null
+layout_spectrum: 0.9403182216919959
+typography_spectrum: 0.26185075379908085
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8794898549094796
+  lightness: 0.9222193302121013
+  saturation: 0.8012162705417722
+  rhythmicContrast: 0.7399788657203317
+purpose: []
