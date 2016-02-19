@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Human Mind]]></title>
+        <description><![CDATA[The Human Mind]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Feb 2016 14:59:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Human Mind - Neuroscience, and Cognition made is easy.</p>]]></description>
+            <link>undefined2f383614-4a0a-4e46-9e59-22556e64c166/index.html</link>
+            <guid isPermaLink="false">2f383614-4a0a-4e46-9e59-22556e64c166</guid>
+            <pubDate>Fri, 19 Feb 2016 14:59:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
